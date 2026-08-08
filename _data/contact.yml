@@ -4,6 +4,10 @@
   icon: 'fab fa-facebook'
   url: 'https://www.facebook.com/jaimerodrigo.sangocondor'
 
+- type: TikTok
+  icon: "fab fa-tiktok"
+  url: https://www.tiktok.com/@jaime.sango2
+
 - type: instagram
   icon: 'fab fa-instagram'
   url: 'https://www.instagram.com/rodrigoelsoldador'
